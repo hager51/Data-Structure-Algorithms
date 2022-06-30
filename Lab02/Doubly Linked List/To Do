@@ -1,1 +1,5 @@
-Implement Doubly Linked list with all operations.
+1.Implement Doubly Linked list with all operations.
+
+2.Bonus:
+  1.Get First Node Operation (and remove it from list)
+  2.Get Last Node Operation (and remove it from list)
