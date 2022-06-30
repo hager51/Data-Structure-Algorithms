@@ -1,2 +1,3 @@
-1.Implement sequential search on array of integers.
-2.Implement binary search on array of strings.
+1.Implement Selection Sort on array of integers.
+2.Implement Bubble sort on array of integers.
+3.Implement Insertion Sort on array of integers.
